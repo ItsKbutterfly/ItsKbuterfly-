@@ -131,6 +131,8 @@ an automated and efficient approach.
 
 ---
 LinkedIn profile:- https://www.linkedin.com/in/ankush-singh-84ba4341a
+E-mail:- ankushmini22@gmail.com 
+
 # 📊 My Current Learning Path
 
 ```text

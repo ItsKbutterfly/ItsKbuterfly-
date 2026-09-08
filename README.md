@@ -22,7 +22,7 @@ Currently focusing on **Python, SQL, Data Analysis and Data Visualization**.
 - 🌐 Interested in Full Stack Development
 - 🏆 1st Prize Winner – Project Presentation
 - 🚀 Selected for QSpiders CampusConnect Training
-- 📚 Training Track: **Python with Data Analytics**
+- 📚 Training Track: Python with Data Scientist
 
 ---
 
@@ -130,7 +130,7 @@ an automated and efficient approach.
 🏆 **Achievement: 1st Prize – Project Presentation**
 
 ---
-
+LinkedIn profile:- https://www.linkedin.com/in/ankush-singh-84ba4341a
 # 📊 My Current Learning Path
 
 ```text
